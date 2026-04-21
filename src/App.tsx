@@ -259,14 +259,14 @@ export default function App() {
               <h1 className="text-sm font-bold tracking-widest uppercase text-brand-muted">Hệ Thống Gọi Tên</h1>
               <p className="text-xl font-black text-brand uppercase tracking-wider">🎯 {GAMES.length} CHẾ ĐỘ NGẪU NHIÊN</p>
               <p className="text-[11px] mt-1 text-brand-muted">
-                Phát triển bởi thầy Trần Hoài Thanh —{' '}
+                Phát triển bởi thầy Nguyễn Việt Hùng —{' '}
                 <a
-                  href="https://giaovienai.vercel.app/"
+                  href="https://thayhungedu.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-accent hover:underline font-semibold"
                 >
-                  giaovienai.vercel.app
+                  thayhungedu.vercel.app
                 </a>
               </p>
             </div>
